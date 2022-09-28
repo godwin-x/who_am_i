@@ -1,6 +1,6 @@
 # who_am_i
 
-this is description of my self...
+This is description of my self...
 what am doing ,
 how i started ,
 how though it was ,
